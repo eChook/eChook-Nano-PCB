@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Thursday, May 18, 2017
+Project Path:       C:\Users\icooper\Desktop\echookNano_workingCopy\eChookNano_v1.1\eChookNano_v1.1\eChookNano.prj
+Design Path:        C:\Users\icooper\Desktop\echookNano_workingCopy\eChookNano_v1.1\eChookNano_v1.1\eChookNano.pcb
+Design Title:       
+Created:            10/02/2017 12:29:38
+Last Saved:         18/05/2017 14:53:57
+Editing Time:       19486 min
+Units:              mm (precision 2)
+
+
+End Of Report.

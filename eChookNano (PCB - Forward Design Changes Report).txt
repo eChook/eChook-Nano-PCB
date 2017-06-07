@@ -1,0 +1,19 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Friday, May 12, 2017
+Project Path:       C:\Users\icooper\Downloads\ProjeChookNanoV1.1\eChookNano_v1.1\eChookNano.prj
+Design Path:        C:\Users\icooper\Downloads\ProjeChookNanoV1.1\eChookNano_v1.1\eChookNano.pcb
+Design Title:       
+Created:            10/02/2017 12:29:38
+Last Saved:         12/05/2017 08:46:07
+Editing Time:       15531 min
+Units:              mm (precision 2)
+
+Renamed component reference "R21" to "R21".
+
+Renamed component reference "R20" to "R20".
+
+
+
+End Of Report.

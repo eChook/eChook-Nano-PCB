@@ -1,0 +1,40 @@
+Measure Report
+--------------
+
+Report Written:     Friday, February 24, 2017
+Project Path:       C:\Users\icooper\Downloads\ProjeChookNanoV1.1\eChookNano_v1.1\eChookNano.prj
+Design Path:        C:\Users\icooper\Downloads\ProjeChookNanoV1.1\eChookNano_v1.1\eChookNano.pcb
+Design Title:       
+Created:            10/02/2017 11:29:38
+Last Saved:         21/02/2017 08:44:40
+Editing Time:       10609 min
+Units:              mm (precision 2)
+
+    Units: mm
+    &Layer: Top Copper
+
+
+From:  Track Segment  on net N0348
+==================================
+
+Width:  1.00
+Length: 12.22
+Angle:  0.0
+Layer:  Top Copper
+
+To:  Point
+==========
+
+X: 46.35
+Y: -57.23
+
+Distance
+========
+
+  Distance: 16.64
+         X: -16.19
+         Y: 3.85
+     Angle:  166.6
+
+
+End Of Report.

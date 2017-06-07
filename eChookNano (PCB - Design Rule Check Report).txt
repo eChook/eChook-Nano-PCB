@@ -1,0 +1,64 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Thursday, May 18, 2017
+Project Path:       C:\Users\icooper\Desktop\echookNano_workingCopy\eChookNano_v1.1\eChookNano_v1.1\eChookNano.prj
+Design Path:        C:\Users\icooper\Desktop\echookNano_workingCopy\eChookNano_v1.1\eChookNano_v1.1\eChookNano.pcb
+Design Title:       
+Created:            10/02/2017 12:29:38
+Last Saved:         18/05/2017 14:55:58
+Editing Time:       19487 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   No
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.
