@@ -1,0 +1,29 @@
+Unmatched Fonts
+---------------
+
+Report Written:     Tuesday, January 04, 2022
+Design Path:        C:\Rowan (C)\eChook\eChook-Nano-PCB\DesignSpark\eChookNano.pcb
+Design Title:       
+Created:            10/02/2017 11:29:38
+Last Saved:         31/12/2021 16:06:43
+Editing Time:       22460 min
+Units:              mm (precision 4)
+
+
+The design has unmatched fonts on this system for the following:
+================================================================
+
+
+Unmatched fonts on named styles:
+================================
+
+    Font '@Arial Unicode MS' used by text style '[Symbol Names]'
+
+Unmatched fonts on local styles:
+================================
+
+    Font '@Arial Unicode MS' used by Text on layer 'Bottom Silkscreen' at (-34.0000, 66.0000)
+    Font '@Arial Unicode MS' used by Text on layer 'Bottom Silkscreen' at (-34.0000, 63.3000)
+    Font '@Arial Unicode MS' used by Text on layer 'Bottom Silkscreen' at (-34.3662, -3.5302)
+
+End Of Report.
