@@ -9,6 +9,7 @@
 *.sch-bak
 *~
 _autosave-*
+/#auto-saved-files
 *.tmp
 *-save.pro
 *-save.kicad_pcb
