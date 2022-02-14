@@ -3185,7 +3185,7 @@
     (property "Reference" "PWM1" (id 0) (at 247.65 149.86 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "5mm LED" (id 1) (at 243.84 153.67 90)
+    (property "Value" "PWM" (id 1) (at 243.84 153.67 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "LED_THT:LED_D5.0mm" (id 2) (at 254 151.13 0)
@@ -3665,6 +3665,24 @@
     (pin "4" (uuid f098afad-6dbf-41a4-a2d7-5b301c0bdb8d))
   )
 
+  (symbol (lib_id "Connector:TestPoint") (at 93.98 124.46 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid ae34ca85-3607-4b02-a720-7f76e8d7e328)
+    (property "Reference" "TP9" (id 0) (at 96.52 119.8879 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "CurrentTP" (id 1) (at 96.52 122.4279 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm" (id 2) (at 99.06 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 99.06 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 972f569d-cd89-44b5-a8ee-30e99bf37dfa))
+  )
+
   (symbol (lib_id "Device:Polyfuse") (at 39.37 172.085 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b03ce60f-89a5-4ea4-8b07-bf4ee80cab1f)
@@ -3864,24 +3882,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 6187099b-2e14-4402-995c-b25caca232e7))
-  )
-
-  (symbol (lib_id "Connector:TestPoint") (at 93.98 124.46 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid dca3b52c-6cfb-46fe-8a89-560fb218906c)
-    (property "Reference" "TP?" (id 0) (at 96.52 119.8879 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "CurrentTP" (id 1) (at 96.52 122.4279 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm" (id 2) (at 99.06 124.46 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 99.06 124.46 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 2d950027-8eed-46d2-abb8-2762744219c2))
   )
 
   (symbol (lib_id "power:+5V") (at 40.64 110.49 0) (unit 1)
@@ -4175,7 +4175,7 @@
       (reference "J1") (unit 1) (value "Expansion") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical")
     )
     (path "/480e869c-5ccd-450b-826a-11fb4eb4f7b7"
-      (reference "PWM1") (unit 1) (value "5mm LED") (footprint "LED_THT:LED_D5.0mm")
+      (reference "PWM1") (unit 1) (value "PWM") (footprint "LED_THT:LED_D5.0mm")
     )
     (path "/3dc302f0-822d-4e06-b3f8-7f67988ffc5d"
       (reference "Q1") (unit 1) (value "BC547") (footprint "Package_TO_SOT_THT:TO-92L_Inline")
@@ -4276,8 +4276,8 @@
     (path "/54b7b45c-3106-4cf1-b9d6-18d057d85204"
       (reference "TP8") (unit 1) (value "ThrottleTP") (footprint "TestPoint:TestPoint_Pad_D3.0mm")
     )
-    (path "/dca3b52c-6cfb-46fe-8a89-560fb218906c"
-      (reference "TP?") (unit 1) (value "CurrentTP") (footprint "TestPoint:TestPoint_Pad_D3.0mm")
+    (path "/ae34ca85-3607-4b02-a720-7f76e8d7e328"
+      (reference "TP9") (unit 1) (value "CurrentTP") (footprint "TestPoint:TestPoint_Pad_D3.0mm")
     )
     (path "/ea7c53f9-3aa8-4198-9879-de95a5257915"
       (reference "U1") (unit 1) (value "Arduino_Nano_v3.x") (footprint "Module:Arduino_Nano")
