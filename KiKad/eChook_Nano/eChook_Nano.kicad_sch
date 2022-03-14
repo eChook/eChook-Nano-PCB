@@ -2646,7 +2646,7 @@
     (in_bom yes) (on_board yes)
     (uuid 0621708e-181f-48fb-8cb9-d7919271dfca)
     (property "Reference" "R24" (id 0) (at 82.55 127 90))
-    (property "Value" "1k" (id 1) (at 87.63 127 90))
+    (property "Value" "47k" (id 1) (at 87.63 127 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 85.09 127.762 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3704,7 +3704,7 @@
     (property "Reference" "R15" (id 0) (at 248.92 142.24 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "1k" (id 1) (at 250.19 144.78 0)
+    (property "Value" "470" (id 1) (at 250.19 144.78 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 255.778 143.51 90)
@@ -4223,7 +4223,7 @@
       (reference "R14") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/b61d5fba-12dd-446b-9b20-46df956aea47"
-      (reference "R15") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R15") (unit 1) (value "470") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/25b72dda-a4e7-4528-915a-a60a40acc81d"
       (reference "R16") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
@@ -4250,7 +4250,7 @@
       (reference "R23") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/0621708e-181f-48fb-8cb9-d7919271dfca"
-      (reference "R24") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R24") (unit 1) (value "47k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/208ec1ff-0813-487b-bc7b-93951f623775"
       (reference "TP1") (unit 1) (value "BattTotalVTP") (footprint "TestPoint:TestPoint_Pad_D3.0mm")
