@@ -3,3 +3,7 @@ V2.0a issues:
 - TP Vias too small to capture multimeter probe tip. Fixed 26/09
 - RPM inputs not working??
 - No 24v power LED
+
+V2.0b TODO
+- Add 24v Indicator LED
+- Make Throttle input 24v safe
