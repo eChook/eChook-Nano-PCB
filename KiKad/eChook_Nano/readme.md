@@ -6,4 +6,8 @@ V2.0a issues:
 
 V2.0b TODO
 - Add 24v Indicator LED
-- Make Throttle input 24v safe
+- Make Throttle input 24v safe - 24mA through 200mA capable diode - TEST!
+- THT Pads enlarged
+- keep out zone around BT Mount point
+- Totem Pole BAT54S diode protection on all inputs
+- 
