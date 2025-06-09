@@ -15869,6 +15869,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C156293"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e1aaa90e-2274-4661-80a5-ef6f7e291bc7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/b106b909-5a0a-476f-8d76-9f257c026346")
 		(sheetname "/")
@@ -56639,6 +56651,18 @@
 					(xy 112.760205 112.914665) (xy 112.823126 112.898033) (xy 112.869067 112.894263)
 				)
 			)
+		)
+	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 117.9 91.225 0)
+		(layer "F.SilkS")
+		(uuid "36ff2490-46bb-4c2f-a1a9-74ba7060c475")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "*A4"
